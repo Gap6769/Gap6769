@@ -1,7 +1,7 @@
 ### Hello there, I'm Gap 👋
 
 
-- 🔭 I’m currently working on Breik.app a start where we develop a smart way to manage shifts and in Switch-it.co.nz, agency based in New Zealand dedicated to the development of web applications and complex business solutions
+- 🔭 I’m currently working as Full Stack Developer on Breik.app a start where we develop a smart way to manage shifts and in Switch-it.co.nz, agency based in New Zealand dedicated to the development of web applications and complex business solutions
 - 🌱 I’m currently learning Carbon 💎
 - 👯 I’m looking to collaborate on fun and challenging projects
 - 📫 How to reach me: david.aviles.brun@gmail.com
