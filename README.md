@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Carbon 💎
 - 👯 I’m looking to collaborate on fun and challenging projects
 - 📫 How to reach me: david.aviles.brun@gmail.com
-- ⚡ Fun fact: Love starwars!
+- ⚡ Fun fact: Love Starwars!
 
 <!--
 **Gap6769/Gap6769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
